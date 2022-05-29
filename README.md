@@ -7,3 +7,4 @@ In this project the content of movies, the user has watched is considered and ne
 Steps to run application:
 Step 1: Clone the application from the github.
 Step 2: Use the command 'npm run serve' in the console of the same folder.
+Step 3: Search in browser for localhost: "localhost"
