@@ -1,0 +1,64 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+#search_engine {
+    background-color: black;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 7px;
+}
+
+.search_movies {
+    padding: 17px;
+    width: 85%;
+    border-radius: 5px;
+    background-color: #7a0c0c;
+    margin: 10px;
+}
+
+.fa-search:before{
+    content: "\f002";
+    color: white;
+    background: black;
+  
+}
+
+.active {
+    width: max-content;
+    color: rgb(77, 19, 19);
+    opacity: 1;
+    pointer-events: auto;
+    list-style: none;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.list_item li {
+    padding: 7px 5px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.cell{
+    font-family: 'Lobster', cursive;
+
+}
+
+.recommend_title{
+    color: white;
+    font-family: 'Tiro Telugu', serif;
+    padding: 10px;
+    margin: 10px;
+    border: 0.1px rgb(65, 62, 62) solid;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 100px;
+}
